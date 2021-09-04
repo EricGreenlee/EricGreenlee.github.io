@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 --- {% include base_path %}
-Test2
+Test3
 
 ---
+***
 
 Education
 ======

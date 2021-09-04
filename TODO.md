@@ -19,3 +19,9 @@ For Later
    {% include archive-single-cv.html %}
  {% endfor %}</ul>
 "
+
+Command line:
+"git add ."
+"git commit -m "[notes]"
+"git push origin master"
+use token instead of pw if prompted

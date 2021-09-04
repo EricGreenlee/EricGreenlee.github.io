@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. and B.E. in Electrical Engineering, Dartmouth College Thayer School of Engineering, 2018
+* M.Eng. in Electrical and Computer Engineering, University of Maryland College Park, 2020
 
+/*
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+*/

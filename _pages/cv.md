@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 --- {% include base_path %}
-Test3
-
----
 ***
 
 Education

@@ -8,6 +8,7 @@ Now
 *Portfolio
 *clean dead pages
 *add some pizzaz
+*thumbnail
 
 For Later
 ======

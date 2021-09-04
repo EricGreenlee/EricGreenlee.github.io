@@ -1,6 +1,13 @@
 Now
 =====
 *Add pic
+*home page
+*links
+*full resume
+*upload resume
+*Portfolio
+*clean dead pages
+*add some pizzaz
 
 For Later
 ======

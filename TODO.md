@@ -1,8 +1,8 @@
 Now
 =====
-*Add pic
+
 *home page
-*links
+*links- linkedin
 *full resume
 *upload resume
 *Portfolio

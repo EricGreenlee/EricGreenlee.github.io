@@ -2,7 +2,6 @@ Now
 =====
 
 *home page
-*links- linkedin
 *full resume
 *upload resume
 *Portfolio

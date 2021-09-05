@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Eric Greenlee "
 title_separator          : "-"
-name                     : &name "Eric"
-description              : &description "Engineer, Runner, Friend"
+name                     : &name "Eric (He/Him)"
+description              : &description "Electrical/RF Engineering Extraordinaire"
 url                      : https://EricGreenlee.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"

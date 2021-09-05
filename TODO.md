@@ -1,16 +1,14 @@
 Now
 =====
 
-*home page
 *full resume
-*upload resume
 *Portfolio
-*clean dead pages
 *add some pizzaz
 *thumbnail
 
 For Later
 ======
+*upload resume?
  Dynamic .md links:
 
 "

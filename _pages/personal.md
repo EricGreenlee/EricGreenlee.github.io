@@ -11,4 +11,25 @@ redirect_from:
 
 Hobbies
 ======
-* Running
+* Running- I ran my first (and so far only) marathon in the fall of 2020. My roommates and I mapped out our own course through D.C. and went out and ran it one Saturday morning
+* Playing ultimate (frisbee) and soccer
+* Hiking- Selfie atop Mt. Fuji below
+* Cooking- Lots of vegetables, please! And I love making lattices.
+
+[Fuji selfie]
+[Lattice pic]
+
+Favorite Books
+======
+* Exhalation, by Ted Chiang
+* Zen and the Art of Motorcycle Maintenance, by Robert Pirsig
+* The Great Believers, by Rebecca Makkai
+* The Way of Chuang Tzu, translated by Thomas Merton
+* The Name of the Wind, by Patrick Rothfuss
+
+Favorite Classes
+======
+* Philosophy of Science, taught by Prof. David Plunkett at Dartmouth [PHIL27]
+* Digital Electronics, taught by Prof. Eric Hansen at Dartmouth [ENGS31]
+* Advanced Digital System Design, taught by Prof. Eric Hansen at Dartmouth [ENGS128]
+* Wireless Sensor Networks, taught by Prof. Sasan Haghani at UMD [ENPM677]

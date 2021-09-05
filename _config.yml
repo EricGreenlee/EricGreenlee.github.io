@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Greenlee "
 title_separator          : "-"
 name                     : &name "Eric (He/Him)"
-description              : &description "Electrical/RF Engineering Extraordinaire"
+description              : &description "Electrical/RF Engineer Extraordinaire"
 url                      : https://EricGreenlee.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric"
+  name             : "Eric (He/Him)"
   avatar           : "profile2.png"
-  bio              : "Engineer, runner, friend"
+  bio              : "Electrical/RF Engineer Extraordinaire"
   location         : "Washington, D.C."
-  employer         : U.S. Department of Defense
+  employer         : "U.S. Department of Defense"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : eric.greenlee.96@gmail.com

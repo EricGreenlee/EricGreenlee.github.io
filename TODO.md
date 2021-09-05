@@ -3,8 +3,9 @@ Now
 
 *full resume
 *Portfolio
-*add some pizzaz
+*personal
 *thumbnail
+#pronouns
 
 For Later
 ======

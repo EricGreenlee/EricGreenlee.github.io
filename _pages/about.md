@@ -13,6 +13,6 @@ I'm Eric Greenlee, an RF engineer currently with the U.S. Department of Defense,
 A few other highlights:
  * Outside of work, I've been building a wireless sensor network for collecting and aggregating environmental data in Madagascar. For more details on MESH, see the portfolio section.
  * I earned a master's degree in ECE from the University of Maryland in 2020 while working at the DoD.
- * I'm very interested in learning more in a variety of non-engineering fields, especially as they relate to problem solving. Ethics, anthropology, developmental economics, and environmental science are all areas I think would further my ability to design effective longterm solutions.
+ * I'm very interested in learning more in a variety of non-engineering fields, especially as they relate to problem solving. Ethics, anthropology, developmental economics, and environmental science are all areas that would enable me to better design realworld solutions.
 
 If you have ideas for collaborations or otherwise want to talk, please just send me an email :)

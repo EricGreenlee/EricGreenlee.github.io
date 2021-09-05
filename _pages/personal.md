@@ -17,6 +17,7 @@ Hobbies
 * Cooking- Lots of vegetables, please! And I love making lattices.
 
 [Fuji selfie]
+<img src='/images/MESH_Logo_v2.png'>
 [Lattice pic]
 
 Favorite Books

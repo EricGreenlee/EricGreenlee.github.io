@@ -1,6 +1,6 @@
 ---
 title: "College projects"
-excerpt: "A collection of EE and CS projects I completed during undergrad and grad school<br/><img src='/images/DartmouthLogo.png'>"
+excerpt: "A collection of EE and CS projects I completed during undergrad and grad school<br/><img src='/images/DartmouthLogo.png'> <img src='/images/UMDLogo.png'>"
 collection: portfolio
 ---
 

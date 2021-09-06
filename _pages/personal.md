@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Personal"
+title: "About Me"
 permalink: /personal/
 author_profile: true
 redirect_from:
 ---
 
---- About Me {% include base_path %}
+--- {% include base_path %}
 ***
-About Me
+
 
 Hobbies
 ======

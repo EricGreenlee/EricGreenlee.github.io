@@ -1,6 +1,6 @@
 ---
 title: "DoD Projects"
-excerpt: "Various projects spanning the gamut of RF engineering from my time at the DoD<br/><img src='/images/changeme.png'>"
+excerpt: "Various projects spanning the gamut of RF engineering from my time at the DoD<br/><img src='/images/DoDLogo.png'>"
 collection: portfolio
 ---
 

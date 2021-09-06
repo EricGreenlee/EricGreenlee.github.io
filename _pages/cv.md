@@ -17,8 +17,8 @@ Education
 
 Work Experience
 ======
-* U.S. Department of Defense
-  * [Radio Frequency Engineer](https://ericgreenlee.github.io/portfolio/portfolio-2-DoD/): July 2018 - present
+* [U.S. Department of Defense](https://ericgreenlee.github.io/portfolio/portfolio-2-DoD/)
+  * Radio Frequency Engineer: July 2018 - present
   * Stokes Intern: June 2015 - September 2017
 * [MESH Climate Sensors](https://ericgreenlee.github.io/portfolio/portfolio-1-MESH/)
   * Co-founder and lead engineer, part time and unpaid: September 2019 - present
@@ -44,8 +44,9 @@ Service and Leadership
 Awards and Achievements
 ======
 * Tau Beta Pi Engineering Honor Society: 2016 - 2018
-* Stokes Undergraduate Scholarship Program: 2014 - 2018
 * Security clearance: 2014 - present
+* Stokes Undergraduate Scholarship Program: 2014 - 2018
+
 
 
 

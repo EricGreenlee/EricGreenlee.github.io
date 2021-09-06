@@ -3,7 +3,10 @@ Now
 
 *full resume
 *Portfolio
-*personal
+  *WSN
+    *links
+    *pictures
+  *College
 *thumbnail
 
 For Later

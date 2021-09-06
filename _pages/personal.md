@@ -19,7 +19,7 @@ Hobbies
 * Gardening
 * Aspiring Ham radio operator
 
-<img src='/images/FujiHike.png' width='200' height='200'> 		<img src='/images/Lattice.png' width='200' height='200'>
+<img src='/images/FujiHike.png' width='300' height='300'> 		<img src='/images/Lattice.png' width='300' height='300'>
 
 Favorite Books
 ======

@@ -19,7 +19,7 @@ Work Experience
 ======
 * U.S. Department of Defense
   * [Radio Frequency Engineer: July 2018 - present](https://ericgreenlee.github.io/portfolio/portfolio-2-DoD/)
-  * Stokes Intern: 2015 summer, 2017 winter, 2017 summer
+  * Stokes Intern: June 2015 - September 2017
 * MESH Climate Sensors
   * [Co-founder and lead engineer, part time and unpaid: September 2019 - present](https://ericgreenlee.github.io/portfolio/portfolio-1-MESH/)
 * Dartmouth College Thayer School of Engineering, Hanover N.H.

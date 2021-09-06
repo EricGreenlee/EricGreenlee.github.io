@@ -23,11 +23,11 @@ Hobbies
 
 Favorite Books
 ======
-* *Exhalation*, by Ted Chiang
+* *Exhalation* by Ted Chiang
 * *Zen and the Art of Motorcycle Maintenance* by Robert Pirsig
-* *The Great Believers*, by Rebecca Makkai
-* *The Way of Chuang Tzu*, translated by Thomas Merton
-* *The Name of the Wind*, by Patrick Rothfuss
+* *The Great Believers* by Rebecca Makkai
+* *The Way of Chuang Tzu* translated by Thomas Merton
+* *The Name of the Wind* by Patrick Rothfuss
 
 Favorite Courses
 ======

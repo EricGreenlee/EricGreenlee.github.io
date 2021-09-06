@@ -18,16 +18,16 @@ Hobbies
 * Cooking- Lots of vegetables, please! And I love making lattices.
 <img src='/images/Lattic.png'>
 * Growing plants
-
+* Aspiring Ham radio operator
 
 
 Favorite Books
 ======
-* Exhalation, by Ted Chiang
-* Zen and the Art of Motorcycle Maintenance, by Robert Pirsig
-* The Great Believers, by Rebecca Makkai
-* The Way of Chuang Tzu, translated by Thomas Merton
-* The Name of the Wind, by Patrick Rothfuss
+* *Exhalation*, by Ted Chiang
+* *Zen and the Art of Motorcycle Maintenance* by Robert Pirsig
+* *The Great Believers*, by Rebecca Makkai
+* *The Way of Chuang Tzu*, translated by Thomas Merton
+* *The Name of the Wind*, by Patrick Rothfuss
 
 Favorite Courses
 ======

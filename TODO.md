@@ -5,7 +5,6 @@ Now
 *Portfolio
 *personal
 *thumbnail
-#pronouns
 
 For Later
 ======

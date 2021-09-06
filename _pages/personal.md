@@ -14,9 +14,9 @@ Hobbies
 * Running- I ran my first (and so far only) marathon in the fall of 2020. My roommates and I mapped out our own course through D.C. and went out and ran it one Saturday morning
 * Playing ultimate (frisbee) and soccer
 * Hiking- My most recent hike, Mt. Fuji:
-<img src='/images/FujiHike.png'>
+<img src='/images/FujiHike.png' width='50' height='50'>
 * Cooking- Lots of vegetables, please! And I love making lattices.
-<img src='/images/Lattic.png'>
+<img src='/images/Lattice.png' width='50' height='50'>
 * Growing plants
 * Aspiring Ham radio operator
 

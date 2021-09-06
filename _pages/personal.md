@@ -31,7 +31,7 @@ Favorite Books
 
 Favorite Courses
 ======
-* Philosophy of Science, taught by Prof. David Plunkett at Dartmouth [PHIL27]
-* Digital Electronics, taught by Prof. Eric Hansen at Dartmouth [ENGS31]
-* Advanced Digital System Design, taught by Prof. Eric Hansen at Dartmouth [ENGS128]
-* Wireless Sensor Networks, taught by Prof. Sasan Haghani at UMD [ENPM677]
+* *Philosophy of Science* taught by Prof. David Plunkett at Dartmouth [PHIL27]
+* *Digital Electronics* taught by Prof. Eric Hansen at Dartmouth [ENGS31]
+* *Advanced Digital System Design* taught by Prof. Eric Hansen at Dartmouth [ENGS128]
+* *Wireless Sensor Networks* taught by Prof. Sasan Haghani at UMD [ENPM677]

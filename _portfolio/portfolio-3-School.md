@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-Digital Embedded Projects
+Digital/Embedded Projects
 =====
 * Designed, at the transistor level with the CMOS family, a 4-bit shifter for logical, arithmetic, and cyclic shifts. Simulated the design in Cadence and optimized performance. *UMD ENPM610, 2020*
 
@@ -15,7 +15,6 @@ Digital Embedded Projects
 
 * Built an 8-key digital keyboard in VHDL for an Artix-7 FPGA. Features include playing multiple notes at once, volume normalization, and a blues modes with a pentatonic scale. *Dartmouth ENGS31, 2016*
 
-
 Analog Projects
 =====
 * Designed an operational transconductance amplifier at the transistor level in Cadence and built it on a PCB. *Dartmouth ENGS61, 2016*
@@ -23,8 +22,6 @@ Analog Projects
 <img src='/images/ThayerAmpSchematic.png'> <img src='/images/ThayerAmp.png'>
 
 * Designed an analog heart rate monitor and built it on a breadboard. Included circuitry for noise filtering, peak detection, and driving a speaker.  *Dartmouth ENGS32, 2016*
-
-
 
 Mixed Signal Projects
 =====

@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.A. and B.E. in Electrical Engineering, Dartmouth College, 2018
 * M.Eng. in Electrical and Computer Engineering, University of Maryland College Park, 2020
+* B.A. and B.E. in Electrical Engineering, Dartmouth College, 2018
 
 Work Experience
 ======
@@ -25,14 +25,12 @@ Work Experience
 * Dartmouth College Thayer School of Engineering, Hanover N.H.
   * Teacher's Assistant, *Distributed Systems and Fields*: September 2016 - March 2018
   
-  
 Skills
 ======
 * Programming Languages: Python, MATLAB, Lua, VHDL, C, GNU Radio, and JavaScript
 * Simulation Tools: CST Electromagnetic Field Simulation, Ansys HFSS, ADS (Advanced Design System), OrCad, Cadence Design Suite, and Multisim
 * Circuit Board Design Tools: Altium and Eagle
 * Spoken Languages (besides English): Spanish (advanced) 
-  
   
 Service and Leadership
 ======

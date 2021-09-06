@@ -1,17 +1,19 @@
 Now
 =====
 
-*full resume
 *Portfolio
   *WSN
     *links
     *pictures
   *College
-*thumbnail
+    *descriptions 
+    *pictures
 
 For Later
 ======
 *upload resume?
+*thumbnail
+
  Dynamic .md links:
 
 "

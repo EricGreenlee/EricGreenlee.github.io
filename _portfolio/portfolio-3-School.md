@@ -4,28 +4,34 @@ excerpt: "A collection of EE and CS projects I completed during undergrad and gr
 collection: portfolio
 ---
 
-Engs128
+Digital Embedded Projects
+=====
+*Built a digital keyboard in VHDL using a Engs31
+*Engs128
+*VLSI
 
-Engs31
+Analog Projects
+=====
+*Engs32
 
-Engs110
- 
-Engs129
+*Engs61
 
-Engs32
+Mixed Signal Projects
+=====
+*Engs110
 
-Engs61
+*Engs129
 
-WSN (see MESH)
+*Engs21
 
-Origami
+*Engs89/90
 
-VLSI
 
-Sterling engine
+WebDev Projects
+=====
+*Origami
 
-Engs21
 
-ENgs89/90
+
 
 

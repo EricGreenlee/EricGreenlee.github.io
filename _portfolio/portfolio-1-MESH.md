@@ -8,7 +8,7 @@ Test
 
 In 2019, while taking a course in Wireless Sensor Networks (WSNs) at UMD, I was discussing limitations in conducting field research in ecology with David Klinges, who has just begun his PhD studies in that field. He described what sounded to me like a very antiquated process of collecting environmental data from the field, whereby researchers have to wire in to each individual sensor, which are often located deep in the rainforest and up in the trees, to collect any data off of them. This proves a hassle not only because it means the researchers need to return to their remote sites to collect data, but also because the researchers have no indication during the study as to the quality of the data or even whether the sensor is still on. 
 
-<img src='/images/MadagascarFragmentation.png' height='400' width='400'>
+<img src='/images/MadagascarFragmentation.png'>
 *Habitat fragmentation in Madagascar, the focus of David Klinges' research. Image from https://www.razafindratsima.org*
 
 This seemed like a perfect application of WSNs, and indeed many academic labs had developed and deployed environmental WSNs in the early 2000's. While this research provided a great starting point for designing my own network, I also decided to cater the additional long-term requirements of low cost and minimal required technical knowledge to operate. As far as I can tell, none of the academic solutions turned into commercially viable products for the lower-cost end of the market.

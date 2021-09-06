@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* July 2018 - present: Radio Frequency Engineer
+* [July 2018 - present: Radio Frequency Engineer](https://ericgreenlee.github.io/portfolio/portfolio-2-DoD/)
   * U.S. Department of Defense
 * 2015 summer, 2017 winter, 2017 summer: Stokes Intern
   * U.S. Department of Defense

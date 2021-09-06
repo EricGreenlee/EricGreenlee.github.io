@@ -8,6 +8,7 @@ redirect_from:
 
 --- About Me {% include base_path %}
 ***
+About Me
 
 Hobbies
 ======

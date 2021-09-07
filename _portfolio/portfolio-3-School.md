@@ -9,7 +9,7 @@ Digital/Embedded Projects
 =====
 * Designed, at the transistor level with the CMOS family, a 4-bit shifter for logical, arithmetic, and cyclic shifts. Simulated the design in Cadence and optimized performance. *UMD ENPM610, 2020*
 
-<img src='/images/UMDShifter.png' height='200' width='200'>
+<img src='/images/UMDShifter2.png' height='200' width='200'>
 
 * Built a digitally tunable FM radio in VHDL for a Zybo Z7 FPGA. Wrote custom mixer, CIC and FIR filters, and demodulator. *Dartmouth ENGS128, 2017*
 
@@ -29,7 +29,7 @@ Mixed Signal Projects
 
 * Designed and built/integrated a multimodal biological sensor for validation of a machine learning hemorrhage detection model for a DARPA grant proposal. Sensors included temperature, EKG, blood pressure, Near-Infrared Spectroscopy, and more. Tested the decide on porcine subjects in the operating room. *Dartmouth ENGS89/90, 2018*
 
-<img src='/images/ThayerPig.png' height='200' width='200'> 
+<img src='/images/ThayerPig.png' height='300' width='300'> 
 
 * Designed and built a combination digital heart rate monitor and pulse oximeter with an Arduino. Implemented automatic gain control, analog and digital filtering, and basic digital signal processing. *Dartmouth ENGS129, 2017*
 

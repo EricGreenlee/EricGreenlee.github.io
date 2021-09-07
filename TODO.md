@@ -1,13 +1,6 @@
 Now
 =====
 
-*Portfolio
-  *WSN
-    *links
-    *pictures
-  *College
-    *descriptions 
-    *pictures
 
 For Later
 ======

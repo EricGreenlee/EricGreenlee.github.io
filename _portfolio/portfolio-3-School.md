@@ -9,7 +9,7 @@ Digital/Embedded Projects
 =====
 * Designed, at the transistor level with the CMOS family, a 4-bit shifter for logical, arithmetic, and cyclic shifts. Simulated the design in Cadence and optimized performance. *UMD ENPM610, 2020*
 
-<img src='/images/UMDShifter.png'>
+<img src='/images/UMDShifter.png' length="200" width="200">
 
 * Built a digitally tunable FM radio in VHDL for a Zybo Z7 FPGA. Wrote custom mixer, CIC and FIR filters, and demodulator. *Dartmouth ENGS128, 2017*
 
@@ -19,7 +19,7 @@ Analog Projects
 =====
 * Designed an operational transconductance amplifier at the transistor level in Cadence and built it on a PCB. *Dartmouth ENGS61, 2016*
 
-<img src='/images/ThayerAmpSchematic.png'> <img src='/images/ThayerAmp.png'>
+<img src='/images/ThayerAmpSchematic.png' length="200" width="200"> <img src='/images/ThayerAmp.png'> length="200" width="200"
 
 * Designed an analog heart rate monitor and built it on a breadboard. Included circuitry for noise filtering, peak detection, and driving a speaker.  *Dartmouth ENGS32, 2016*
 

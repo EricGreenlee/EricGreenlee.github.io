@@ -13,7 +13,7 @@ This seemed like a perfect application of WSNs, and indeed many academic labs ha
 
 Starting with an [open-source sensor developed by James Mickley](https://github.com/mickley/EMU) that already included a WiFi chip, I designed and implemented a network in Lua using the NodeMCU framework. I iteratively modified the hardware, upgrading the microcontroller to the ESP32, which has more RAM, and adding a LoRa chip to extend the communication range. Natalie Greenlee and Robert Halvorsen designed a ruggedized case for the node, and I continued developing the software to robustly aggregate data and upload it to the internet via a WiFi access point. 
 
-<img src='/images/MESHInitHardware.png' height='400' width='400' caption='test'>
+<img src='/images/MESHInitHardware.png' height='400' width='400'>
 *Hardware used in the final version of the initial prototype*
 
 After developing an initial prototype, I deemed it was necessary to create a second iteration of the node to address fundamental limitations of component reliability and access to software libraries by completely revamping the hardware. For their final ENGS89/90 project, a team of Dartmouth engineering students, composed of Ted Northup, Max Lindemann, Ricardo Serrano-Smith, and Luc Kharey, conducted this initial redesign and simultaneously improved the case and sensor. They programmed the node in Arduino and focused on point-to-point communication, with the condition that afterwards I would be able to program it in C to more effectively design the entire network based on a simplified TCP/IP model.
